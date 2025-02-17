@@ -14,4 +14,10 @@ I'm currently studying **Data Science** and I'm passionate about **Python**.
 
 ---
 
+## ⚔️ Code Wars
+
+[![Rank Atual](https://www.codewars.com/users/Kennedh/badges/large)](https://www.codewars.com/users/Kennedh)
+
+---
+
 Feel free to connect with me! 🚀
