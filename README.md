@@ -10,7 +10,7 @@ I'm currently studying **Data Science** and I'm passionate about **Python**.
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kennedh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kennedh&theme=merko)](https://git.io/streak-stats)
 
 ---
 
