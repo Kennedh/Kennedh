@@ -1,10 +1,28 @@
-# 👋 Hi, I'm Kennedh!
+# 👋 Opa, sou o Kennedh!
 
-I'm an IT professional with experience in **technical support and SQL**, and now I'm diving into the world of programming.  
-I'm currently studying **Python** and I'm passionate about **It**.  
+**Analista de Suporte a Software | Especialista Python "em treinamento" | Futuro Dev. Full Stack**
 
-🚀 **Learning:** Python and Software Development  
-🎯 **Goal:** Become a skilled programmer and work on impactful projects  
+Atualmente, meu foco é domínio técnico e consistência. Acredito que um programador de elite se molda na prática diária e na capacidade de aprender novas ferramentas para resolver problemas reais.
+
+---
+
+### 🚀 O Desafio: 365 Dias de Código
+Estou em uma jornada de **programar e documentar todos os dias do ano** para consolidar minha base lógica e técnica.
+* 🐍 **Foco Atual:** Python e Resolução de Problemas.
+
+---
+
+### 🛠️ Stacks e Experiência:
+* **Linguagens:** Python (Foco Principal) e Progress 4GL (Experiência Profissional).
+* **Banco de Dados:** SQL.
+* **Visão:** Após concluir o ciclo de 365 dias com Python, iniciarei a migração para novas linguagens e tecnologias com o objetivo de me tornar um desenvolvedor **Full Stack**.
+
+---
+
+### 🎯 Objetivo
+Ser um programador completo ("pica das galáxias"), capaz de transitar entre diferentes stacks e entregar soluções de alto nível.
+
+"A constância vence o talento todos os dias."
 
 ---
 
