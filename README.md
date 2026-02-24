@@ -20,7 +20,7 @@ Estou em uma jornada de **programar e documentar todos os dias do ano** para con
 ---
 
 ### 🎯 Objetivo
-Ser um programador completo ("pica das galáxias"), capaz de transitar entre diferentes stacks e entregar soluções de alto nível.
+Ser um programador completo, capaz de transitar entre diferentes stacks e entregar soluções de alto nível.
 
 "A constância vence o talento todos os dias."
 
