@@ -14,6 +14,12 @@ Estou em uma jornada diária de codificação para consolidar minha base lógica
 
 ---
 
+## 📊 GitHub Stats  
+
+[![GitHub Streak](https://github-readme-streak-stats-seven-taupe.vercel.app?user=kennedh&theme=merko&utc_offset=-3)](https://git.io/streak-stats)
+
+---
+
 ### 🛠️ Stacks e Experiência
 
 * **Linguagens:** Python (Automação e Scripting) e Progress 4GL (Experiência Profissional em ERP).
