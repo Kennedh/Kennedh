@@ -1,41 +1,31 @@
 # 👋 Opa, sou o Kennedh!
 
-**Analista de Suporte a Software | Especialista Python "em treinamento" | Futuro Dev. Full Stack**
+### **Analista de Suporte a Software | Python para Automação & Eficiência de TI**
 
-Atualmente, meu foco é domínio técnico e consistência. Acredito que um programador de elite se molda na prática diária e na capacidade de aprender novas ferramentas para resolver problemas reais.
-
----
-
-### 🚀 O Desafio: 365 Dias de Código
-Estou em uma jornada de **programar e documentar todos os dias do ano** para consolidar minha base lógica e técnica.
-* 🐍 **Foco Atual:** Python e Resolução de Problemas.
+Atualmente, meu foco é elevar o nível do suporte técnico através da tecnologia. Acredito que a **análise de dados** e a **automação de processos** são as chaves para transformar o suporte reativo em uma operação estratégica e ágil.
 
 ---
 
-### 🛠️ Stacks e Experiência:
-* **Linguagens:** Python (Foco Principal) e Progress 4GL (Experiência Profissional).
-* **Banco de Dados:** SQL.
-* **Visão:** Após concluir o ciclo de 365 dias com Python, iniciarei a migração para novas linguagens e tecnologias com o objetivo de me tornar um desenvolvedor **Full Stack**.
+### 🐍 O Desafio: 365 Dias de Código
+Estou em uma jornada diária de codificação para consolidar minha base lógica e construir ferramentas que resolvam problemas reais do dia a dia corporativo.
+
+* **Foco Atual:** Python aplicado à automação de tarefas, manipulação de dados e scripts de utilidade (Ex: Conversores e Compressores de arquivos).
+* **Objetivo do Ciclo:** Criar soluções robustas que otimizem fluxos de trabalho e garantam a integridade de dados.
 
 ---
 
-### 🎯 Objetivo
-Ser um programador completo, capaz de transitar entre diferentes stacks e entregar soluções de alto nível.
+### 🛠️ Stacks e Experiência
 
-"A constância vence o talento todos os dias."
-
----
-
-## 📊 GitHub Stats  
-
-[![GitHub Streak](https://github-readme-streak-stats-seven-taupe.vercel.app?user=kennedh&theme=merko&utc_offset=-3)](https://git.io/streak-stats)
+* **Linguagens:** Python (Automação e Scripting) e Progress 4GL (Experiência Profissional em ERP).
+* **Banco de Dados:** SQL (Consultas, extração de dados e relatórios técnicos).
+* **Visão:** Utilizar a programação como diferencial competitivo na entrega de suporte de alta performance e resolução de problemas complexos.
 
 ---
 
-## ⚔️ Code Wars
+### 🎯 Objetivo Profissional
 
-[![Rank Atual](https://www.codewars.com/users/Kennedh/badges/large)](https://www.codewars.com/users/Kennedh)
+Evoluir continuamente como um especialista de TI completo, capaz de transitar entre diferentes ferramentas para entregar soluções de alto nível e otimização operacional.
+
+> "A constância na resolução de problemas complexos é o que define um especialista."
 
 ---
-
-Feel free to connect with me! 🚀
