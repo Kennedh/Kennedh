@@ -16,7 +16,7 @@ Estou em uma jornada diária de codificação para consolidar minha base lógica
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats-seven-taupe.vercel.app?user=kennedh&theme=merko&utc_offset=-3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eop6.onrender.com?user=kennedh&theme=merko&utc_offset=-3)](https://git.io/streak-stats)
 
 ---
 
