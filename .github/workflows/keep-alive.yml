@@ -1,0 +1,24 @@
+name: Keep Render App Alive
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Render application
+        run: |
+          # Simula exatamente a chamada do README
+          STATUS_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+            "https://github-readme-streak-stats-eop6.onrender.com?user=kennedh&theme=merko&offset=3")
+          
+          echo "📊 Status retornado: $STATUS_CODE"
+          
+          if [ $STATUS_CODE -eq 200 ]; then
+            echo "✅ App está ativo e gerando streak"
+          else
+            echo "⚠️ Status inesperado: $STATUS_CODE"
+          fi
