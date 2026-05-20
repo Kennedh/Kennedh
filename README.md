@@ -1,37 +1,36 @@
 # 👋 Opa, sou o Kennedh!
 
-### **Analista de Suporte a Software | Python para Automação & Eficiência de TI**
+### **Python dev em evolução | Automação & Backend**
 
-Atualmente, meu foco é elevar o nível do suporte técnico através da tecnologia. Acredito que a **análise de dados** e a **automação de processos** são as chaves para transformar o suporte reativo em uma operação estratégica e ágil.
-
----
-
-### 🐍 O Desafio: 365 Dias de Código
-Estou em uma jornada diária de codificação para consolidar minha base lógica e construir ferramentas que resolvam problemas reais do dia a dia corporativo.
-
-* **Foco Atual:** Python aplicado à automação de tarefas, manipulação de dados e scripts de utilidade (Ex: Conversores e Compressores de arquivos).
-* **Objetivo do Ciclo:** Criar soluções robustas que otimizem fluxos de trabalho e garantam a integridade de dados.
+Atualmente meu foco é construir soluções reais com Python. Automação de processos, manipulação de dados e lógica de programação aplicada a problemas concretos.
 
 ---
 
-## 📊 GitHub Stats  
+### 🐍 365 Dias de Código
+
+Jornada diária pra consolidar minha base lógica e criar ferramentas que resolvem problemas de verdade.
+
+- **Foco atual:** Python com POO, CustomTkinter, automação de tarefas e manipulação de dados
+- **Objetivo:** Criar soluções robustas, com código limpo e interface quando necessário
+
+---
+
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-eop6.onrender.com?user=kennedh&theme=merko&utc_offset=-3)](https://git.io/streak-stats)
 
 ---
 
-### 🛠️ Stacks e Experiência
+### 🛠️ O que estou usando
 
-* **Linguagens:** Python (Automação e Scripting) e Progress 4GL (Experiência Profissional em ERP).
-* **Banco de Dados:** SQL (Consultas, extração de dados e relatórios técnicos).
-* **Visão:** Utilizar a programação como diferencial competitivo na entrega de suporte de alta performance e resolução de problemas complexos.
-
----
-
-### 🎯 Objetivo Profissional
-
-Evoluir continuamente como um especialista de TI completo, capaz de transitar entre diferentes ferramentas para entregar soluções de alto nível e otimização operacional.
-
-> "A constância na resolução de problemas complexos é o que define um especialista."
+- **Linguagens:** Python (Automação, scripts, POO e interfaces com CustomTkinter) e Progress 4GL (ERP, análise e manipulação de dados).
+- **SQL** (consultas, extração e organização de dados)
+- **Git & GitHub** (versionamento e portfólio)
 
 ---
+
+### 🎯 Objetivo
+
+Evoluir como dev. Construir projetos que mostrem minha evolução. Chegar lá com código de verdade, não só teoria.
+
+> Constância na resolução de problemas complexos é o que define um bom dev.
