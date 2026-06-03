@@ -23,7 +23,7 @@ Jornada diária pra consolidar minha base lógica e criar ferramentas que resolv
 
 ### 🛠️ O que estou usando
 
-- **Linguagens:** Python (Automação, scripts, POO e interfaces com CustomTkinter) e Progress 4GL (ERP, análise e manipulação de dados).
+- **Linguagens:** Python (Automação, scripts, POO e interfaces com CustomTkinter e PySide6) e Progress 4GL (ERP, análise e manipulação de dados).
 - **SQL** (consultas, extração e organização de dados)
 - **Git & GitHub** (versionamento e portfólio)
 
