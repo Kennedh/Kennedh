@@ -1,17 +1,18 @@
 # 👋 Opa, sou o Kennedh!
 
-### **Python dev em evolução | Automação & Backend**
+### **Software Dev em Evolução | Python, JS & Automação**
 
-Atualmente meu foco é construir soluções reais com Python. Automação de processos, manipulação de dados e lógica de programação aplicada a problemas concretos.
+Atualmente focado em construir soluções reais. Unindo a força do Python no backend, automação e manipulação de dados com JavaScript, HTML e CSS para a criação de aplicações e utilitários completos.
 
 ---
 
-### 🐍 365 Dias de Código
+### 🐍 +365 Dias de Código Ininterruptos
 
-Jornada diária pra consolidar minha base lógica e criar ferramentas que resolvem problemas de verdade.
+Mais de 1 ano de treino diário contínuo para consolidar a base lógica, dominar a resolução de problemas e expandir minha stack na prática.
 
-- **Foco atual:** Python com POO, CustomTkinter, automação de tarefas e manipulação de dados
-- **Objetivo:** Criar soluções robustas, com código limpo e interface quando necessário
+- **Foco atual:** JavaScript, HTML5 e CSS3 (desenvolvimento web/apps) + Python (POO, automação e interfaces).
+- **Abordagem:** Treino diário de lógica e fundamentação técnica, com foco em qualidade. Ao longo do último ano, transformei esse aprendizado em 9 projetos práticos e completos.
+- **Objetivo:** Criar aplicações robustas, enxutas e prontas para uso real.
 
 ---
 
@@ -23,14 +24,13 @@ Jornada diária pra consolidar minha base lógica e criar ferramentas que resolv
 
 ### 🛠️ O que estou usando
 
-- **Linguagens:** Python (Automação, scripts, POO e interfaces com CustomTkinter e PySide6) e Progress 4GL (ERP, análise e manipulação de dados).
-- **SQL** (consultas, extração e organização de dados)
-- **Git & GitHub** (versionamento e portfólio)
+- **Linguagens & Web:** Python (Automação, scripts, POO, CustomTkinter e PySide6), JavaScript (HTML5/CSS3) e Progress 4GL (ERP, lógica de negócios e sustentação).
+- **Banco de Dados & Ferramentas:** SQL (consultas, extração, integridade e organização de dados), Git e GitHub.
 
 ---
 
 ### 🎯 Objetivo
 
-Evoluir como dev. Construir projetos que mostrem minha evolução. Chegar lá com código de verdade, não só teoria.
+Evoluir como desenvolvedor e construir soluções que mostrem minha maturidade técnica. Chegar lá com código de verdade, consistência e bagagem prática.
 
 > Constância na resolução de problemas complexos é o que define um bom dev.
